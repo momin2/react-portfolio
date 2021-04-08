@@ -1,15 +1,15 @@
 {
   "main": {
-    "name": "Shazil Sattar",
-    "occupation": "WEB DEVELOPER",
-    "description": "Full Stack Web Developer by Day, Freelancer by Night.",
+    "name": "Momin Mehmood",
+    "occupation": "Marketing Expert",
+    "description": "Marketing Expert, Confident, Deal with People.",
     "image": "shazil.jpg",
-    "bio": "My name is Shazil, I'm a Full Stack Web Developer.",
-    "contactmessage": "Get in touch with me to receive further details, get your web app now.",
-    "email": "sattarshazil@gmail.com",
-    "phone": "+92 304 7423056",
+    "bio": "My name is Momin, I'm a Full Marketer.",
+    "contactmessage": "Get a code.",
+    "email": "mmomin073@gmail.com",
+    "phone": "+92 320 6897993",
     "address": {
-      "street": "wahadat coloney,g-48",
+      "street": "Marghzar colony,N-20",
       "city": "Lahore",
       "state": "Pakistan",
       "zip": "54357"
@@ -19,22 +19,22 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://web.facebook.com/shazil.sattar.31/",
+        "url": "https://web.facebook.com/profile.php?id=100008432586044",
         "className": "fa fa-facebook"
       },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/shazil-sattar-090220200/",
-        "className": "fa fa-linkedin"
+ //     {
+ //      "name": "linkedin",
+//        "url": "https://www.linkedin.com/in/shazil-sattar-090220200/",
+//        "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/sattarshazil/",
+        "url": "https://www.instagram.com/momin9117/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/Shazil2154",
+        "url": "https://github.com/momin2",
         "className": "fa fa-github"
       }
     ]
@@ -51,21 +51,27 @@
     ],
     "work": [
       {
-        "company": "Fiverr",
-        "title": "Freelancer",
-        "years": "April 2020 - Present",
-        "description": "Freelancing Developer."
+        "company": "Food Trends",
+        "title": "Key account Executive",
+        "years": "April 2021 - Present",
+        "description": "Marketinf officer."
+      },
+       {
+        "company": "Olympia Chemicals",
+        "title": "Key account Executive",
+        "years": "March 2021 - ",
+        "description": "Marketinf officer."
       }
       
     ],
     "skills": [
        {
         "name": "HTML5",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "85%"
       },
       {
         "name":"JavaScript",
@@ -73,19 +79,19 @@
       },
      
       {
-       "name":"NodeJs",
+       "name":"Marketer",
        "level":"80%" 
       },
       {
-        "name": "ReactJs",
+        "name": "Power Point",
         "level": "100%"
       },
       {
-        "name": "MongoDB",
+        "name": "Excel",
         "level": "80%"
       },
       {
-        "name":"PHP",
+        "name":"English",
         "level":"80%"
       },
       {
@@ -104,29 +110,18 @@
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "Todolist App",
-        "category": "Todolist app build with NodeJs",
-        "image": "todo.png",
-        "url": "https://cryptic-lowlands-84680.herokuapp.com/"
-      },
-      {
-        "title": "Zoom clone",
-        "category": "Zoom clone made with NodeJs",
-        "image": "zoom.png",
-        "url": "https://dry-earth-57314.herokuapp.com/$%7Buuid()%7D"
-      }
+      
     ]
   },
   "testimonials": {
     "testimonials": [
       {
         "text": "A very Hard working guy. Keep up the good work and never lose your will to learn.",
-        "user": "Hammad Khan"
+        "user": "Atif"
       },
       {
-        "text": "Shazil is the most passionate i ever thought. I am sure he will be an amazing developer in no time",
-        "user": "M.Ahsan"
+        "text": "Momin is the most passionate i ever thought. I am sure he will be an amazing developer in no time",
+        "user": "Shzail"
       }
     ]
   }
